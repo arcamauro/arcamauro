@@ -1,12 +1,12 @@
 ## Hi there 👋 Arcangelo here
 ### Computer Science student
-I'm a Computer Science student from Palermo, Italy. I've been learning how to code since 2019 writing my first C programs, and I became interested in back-end development, other than low-level programming.
+I'm a Computer Science student from Palermo, Italy. I've been learning how to code since 2019 writing my first C programs, and I became interested in back-end development, other than low-level programming. Alongside coding, I like a lot the theoretical side of computer science, such as automata, languages and algorithms and data structures.
+
 - 📓 Currently taking my last exams of my **Bachelor Degree** 
 - 🧑‍💻 Ex-Software Engineer Intern @ **STMicroelectronics**
 - ⚙️ I'm working on a **C-subset compiler** written in **Rust** and targeting **RISC-V**
 - 📧 You can contact me at <arcangelo.mauro@proton.me> for any request or collaboration
 - 🔗 LinkedIn: <https://linkedin.com/in/arcamauro>
-
 <!--
 **arcamauro/arcamauro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
